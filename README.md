@@ -4,8 +4,8 @@ A modular six-wheeled autonomous rover developed for International Rover Challen
 
 System Architecture:
 1. Processing Unit:
-   Intel NUC (Main onboard computer
-   ROS2-based software architecture
+   Intel NUC (Main onboard computer),
+   ROS2-based software architecture and
    ESP32 modules interfaced with NUC
 2. Drive System (6-Wheel Configuration):
    6-wheel differential drive mechanism
